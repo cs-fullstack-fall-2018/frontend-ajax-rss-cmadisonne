@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA to Host Live Chat on Successful Mission to Asteroid Belt</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-host-live-chat-on-successful-mission-to-asteroid-belt</link>
+ <description>NASA’s Jet Propulsion Laboratory (JPL) will host a live-streamed Science Chat at 2 p.m. EDT Friday, Sept. 7, during which experts will talk about the role of the agency’s Dawn spacecraft in studying the beginning of our solar system, and the approaching end of its 11-year mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pia18922_1.jpg?itok=6lkGO-xB" length="174908" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-host-live-chat-on-successful-mission-to-asteroid-belt</guid>
+ <pubDate>Tue, 04 Sep 2018 18:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431757</dc:identifier>
+</item>
+ <item> <title>NASA Television to Air Launch of Global Ice-Measuring Satellite</title>
+ <link>http://www.nasa.gov/press-release/nasa-television-to-air-launch-of-global-ice-measuring-satellite</link>
+ <description>NASA’s Ice, Cloud and land Elevation Satellite-2 (ICESat-2), a mission to measure the changing height of Earth&#039;s ice, is scheduled to launch Saturday, Sept. 15, with a 40-minute window opening at 8:46 a.m. EDT (5:46 a.m. PDT).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/bannerhorizontal2k.jpg?itok=vmebBpCc" length="428166" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-television-to-air-launch-of-global-ice-measuring-satellite</guid>
+ <pubDate>Tue, 04 Sep 2018 16:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431723</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to View Spacecraft to Study the Frontier of Space</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-view-spacecraft-to-study-the-frontier-of-space</link>
+ <description>NASA is inviting media to view NASA’s Ionospheric Connection Explorer (ICON) spacecraft Thursday, Oct. 4, ahead of its scheduled launch aboard a Northrop Grumman Pegasus XL rocket Saturday, Oct. 6, at 4 a.m. EDT from Cape Canaveral Air Force Station (CCAFS) in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/icon_image001.png?itok=EvAaW0Dr" length="1494620" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-view-spacecraft-to-study-the-frontier-of-space</guid>
+ <pubDate>Fri, 31 Aug 2018 16:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431584</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to Witness Final Orion Parachute Test in Arizona Desert</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-witness-final-orion-parachute-test-in-arizona-desert</link>
+ <description>NASA is inviting media to view the final test of the Orion spacecraft’s parachute system on Wednesday, Sept. 12, at the U.S. Army’s Yuma Proving Ground in Arizona. This test is the last in a series of eight to qualify the parachutes for crewed Orion missions to the Moon and beyond.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/40250715454_1b4b5625bb_k.jpg?itok=dKt-QD5_" length="1209560" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-witness-final-orion-parachute-test-in-arizona-desert</guid>
+ <pubDate>Fri, 31 Aug 2018 11:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431556</dc:identifier>
+</item>
+ <item> <title>NASA Awards Contract for Earth Science Mission Hosting Services</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-for-earth-science-mission-hosting-services</link>
+ <description>NASA has awarded a contract to General Atomics of San Diego, California, for services required to host the agency’s Multi-Angle Imager for Aerosols (MAIA) instrument on a commercial satellite in low-Earth orbit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=L07ZQKnk" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-for-earth-science-mission-hosting-services</guid>
+ <pubDate>Thu, 30 Aug 2018 18:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431524</dc:identifier>
+</item>
+ <item> <title>NASA Awards Contract to Upgrade Launch Pad Fuel System for World’s Largest Rocket</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-to-upgrade-launch-pad-fuel-system-for-world-s-largest-rocket</link>
+ <description>NASA has awarded a contract to Precision Mechanical, Inc., in Cocoa, Florida, for the manufacture, fabrication and installation of upgrades to the Liquid Hydrogen (LH2) System at Launch Complex 39B at NASA’s Kennedy Space Center in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=L07ZQKnk" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-to-upgrade-launch-pad-fuel-system-for-world-s-largest-rocket</guid>
+ <pubDate>Thu, 30 Aug 2018 18:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431523</dc:identifier>
+</item>
+ <item> <title>Media Invited to News Conference with NASA Astronaut Anne McClain and Space Station Crewmates</title>
+ <link>http://www.nasa.gov/press-release/media-invited-to-news-conference-with-nasa-astronaut-anne-mcclain-and-space-station</link>
+ <description>NASA astronaut Anne McClain, along with her crewmates, David Saint-Jacques of the Canadian Space Agency and Oleg Kononenko of the Russian space agency Roscosmos, will discuss their upcoming mission to the International Space Station in a news conference at 2 p.m. EDT Thursday, Sept. 6, at NASA’s Johnson Space Center in Houston.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2018e043409medium.jpg?itok=bHxar4nE" length="201082" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/media-invited-to-news-conference-with-nasa-astronaut-anne-mcclain-and-space-station</guid>
+ <pubDate>Thu, 30 Aug 2018 11:24 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431487</dc:identifier>
+</item>
+ <item> <title>NASA Awards Electrical Systems Engineering Services Contract</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-electrical-systems-engineering-services-contract</link>
+ <description>NASA has awarded the Electrical Systems Engineering Services (ESES) III contract to Science Systems and Applications, Inc. (SSAI) of Greenbelt, Maryland.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=L07ZQKnk" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-electrical-systems-engineering-services-contract</guid>
+ <pubDate>Wed, 29 Aug 2018 16:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431437</dc:identifier>
+</item>
+ <item> <title>NASA Investment in Cholera Forecasts Helps Save Lives in Yemen</title>
+ <link>http://www.nasa.gov/press-release/nasa-investment-in-cholera-forecasts-helps-save-lives-in-yemen</link>
+ <description>For the first time ever, measurements from NASA Earth-observing research satellites are being used to help combat a potential outbreak of life-threatening cholera. Humanitarian teams in Yemen are targeting areas identified by a NASA-supported project that precisely forecasts high-risk regions based on environmental conditions observed from space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/cholera_yemen.jpg?itok=FHt4xTwc" length="384805" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-investment-in-cholera-forecasts-helps-save-lives-in-yemen</guid>
+ <pubDate>Mon, 27 Aug 2018 16:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431007</dc:identifier>
+</item>
+ <item> <title>South Dakota, Texas Students to Speak with Astronauts on International Space Station</title>
+ <link>http://www.nasa.gov/press-release/south-dakota-texas-students-to-speak-with-astronauts-on-international-space-station</link>
+ <description>University and middle school students from South Dakota, and junior high students from Texas, will talk live with astronauts on the International Space Station next week.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss056e078393.jpg?itok=SQ48BEPr" length="3536016" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/south-dakota-texas-students-to-speak-with-astronauts-on-international-space-station</guid>
+ <pubDate>Fri, 24 Aug 2018 09:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>431089</dc:identifier>
+</item>
+</channel>
+</rss>
